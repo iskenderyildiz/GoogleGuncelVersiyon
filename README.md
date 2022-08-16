@@ -1,2 +1,1 @@
-# GoogleGuncelVersiyon
-Google Güncel versiyon
+Google Anasayfa Tasarımı
