@@ -1,0 +1,2 @@
+# GoogleGuncelVersiyon
+Google Güncel versiyon
